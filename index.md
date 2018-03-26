@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to IntACT Project
 
-You can use the [editor on GitHub](https://github.com/intact-project/intact-project.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The aim of the project is to develop a computational system that will assist clinicians with the diagnosis of ILDs while avoiding the dangerous, expensive and time-consuming invasive biopsies. The system will provide a computerized differential diagnosis, based on radiological data and clinical/biochemical markers and will focus on the discrimination between the IPF and the NSIP while keeping a generic architecture that could be expanded to most types of ILDs. The appropriate interpretation of the available radiological data combined with clinical/biochemical information can provide reliable diagnosis able to improve the diagnostic accuracy of the clinicians.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This research is carried out within the framework of the INTACT research project, supported by Bern University Hospital, “Inselspital” and the Swiss National Science Foundation (SNSF) under Grant 156511.
 
-### Markdown
+You may find more details about our work in the following links:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- https://www.researchgate.net/project/IntACT
 
-```markdown
-Syntax highlighted code block
+- http://www.artorg.unibe.ch/research/dtr/research_activities/computer_aided_diagnosis_systems/index_eng.html
 
-# Header 1
-## Header 2
-### Header 3
+- http://ieeexplore.ieee.org/document/7422082/
 
-- Bulleted
-- List
+- https://arxiv.org/abs/1612.02589
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/intact-project/intact-project.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- https://arxiv.org/abs/1803.06167v1
